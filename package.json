@@ -1,0 +1,23 @@
+{
+  "name": "electronlearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamJayne/IntroductionToElectronJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamJayne/IntroductionToElectronJS/issues"
+  },
+  "homepage": "https://github.com/AdamJayne/IntroductionToElectronJS#readme",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
