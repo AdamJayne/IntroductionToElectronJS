@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/AdamJayne/IntroductionToElectronJS#readme",
   "devDependencies": {
-    "electron": "^9.0.0"
+    "electron": "^15.5.5"
   }
 }
